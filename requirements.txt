@@ -4,3 +4,5 @@ sentence-transformers
 numpy
 python-dotenv
 openai
+requests
+beautifulsoup4
