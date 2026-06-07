@@ -158,8 +158,8 @@
         {
             "student_id": "crawled",
             "name": "봉황",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/봉황.png",
+            "image_prompt": "An ancient East Asian mythical creature called '봉황'. Body composed of: . Description: 봉황은 동아시아 전설에서 등장하는 상상의 새로, 주로 부와 권력을 상징합니다. 봉황은 평화와 조화를 나타내는 존재로 여겨지며, 때로는 귀신의 일종으로도 등장합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "봉황은 동아시아 전설에서 등장하는 상상의 새로, 주로 부와 권력을 상징합니다. 봉황은 평화와 조화를 나타내는 존재로 여겨지며, 때로는 귀신의 일종으로도 등장합니다.",
@@ -171,8 +171,8 @@
         {
             "student_id": "crawled",
             "name": "기린",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/기린.png",
+            "image_prompt": "An ancient East Asian mythical creature called '기린'. Body composed of: . Description: 기린은 우제목 기린과 기린속 동물들의 총칭으로, 현재는 총 4종이 존재하는 것으로 밝혀졌다. 기린은 목이 길고 그물무늬가 특징이며, 탄자니아의 국수로 알려져 있다. 개체 수가 현저히 감소하여 멸종 위기에 처해 있으며, 보호를 위한 노력이 필요하다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "麒麟",
             "translated": "기린은 우제목 기린과 기린속 동물들의 총칭으로, 현재는 총 4종이 존재하는 것으로 밝혀졌다. 기린은 목이 길고 그물무늬가 특징이며, 탄자니아의 국수로 알려져 있다. 개체 수가 현저히 감소하여 멸종 위기에 처해 있으며, 보호를 위한 노력이 필요하다.",
@@ -184,8 +184,8 @@
         {
             "student_id": "crawled",
             "name": "청룡",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/청룡.png",
+            "image_prompt": "An ancient East Asian mythical creature called '청룡'. Body composed of: 용. Description: 청룡은 동아시아의 상상의 동물로, 파란색 비늘을 가진 용입니다. 동쪽과 봄을 상징하며, 생명이 움트는 시기와 태양이 떠오르는 방향을 나타냅니다. 또한, 청룡은 날씨를 다루고 물을 다스리는 능력을 가진 존재로 여겨집니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "용"
             ],
@@ -199,8 +199,8 @@
         {
             "student_id": "crawled",
             "name": "백호",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/백호.png",
+            "image_prompt": "An ancient East Asian mythical creature called '백호'. Body composed of: 호랑이. Description: 백호는 전통적으로 도교의 사신 중 하나로서, 또한 흰 호랑이를 의미합니다. 이 동물은 동양의 신화와 전설에서 중요한 역할을 하며, 힘과 용맹함의 상징으로 여겨집니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "호랑이"
             ],
@@ -214,8 +214,8 @@
         {
             "student_id": "crawled",
             "name": "주작",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/주작.png",
+            "image_prompt": "An ancient East Asian mythical creature called '주작'. Body composed of: 닭, 뱀, 제비, 거북, 물고기. Description: 주작은 남쪽과 여름, 그리고 화(火)를 관장하는 사신으로, 깃털이 달린 360종의 짐승의 우두머리로 묘사됩니다. 주로 붉은색의 암수 한 쌍의 새로 그려지며, 불사조와 혼동되기도 하지만 서양의 피닉스와는 다릅니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "닭",
                 "뱀",
@@ -233,8 +233,8 @@
         {
             "student_id": "crawled",
             "name": "현무",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/현무.png",
+            "image_prompt": "An ancient East Asian mythical creature called '현무'. Body composed of: 거북이, 뱀. Description: 현무는 북쪽과 겨울, 오행 중 수를 관장하는 사신으로, 껍데기를 가진 360종의 짐승의 우두머리입니다. 물의 힘과 그로 대표되는 음기를 다루며, 냉기와 독을 주관합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "거북이",
                 "뱀"
@@ -249,8 +249,8 @@
         {
             "student_id": "crawled",
             "name": "해태",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/해태.png",
+            "image_prompt": "An ancient East Asian mythical creature called '해태'. Body composed of: . Description: 해태는 동아시아의 상상 속 생물로, 비늘과 발굽을 가진 육생의 형상을 하고 있습니다. 전통적으로 지혜와 부의 상징으로 여겨지며, 주로 신의 사자로 묘사됩니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "해태는 동아시아의 상상 속 생물로, 비늘과 발굽을 가진 육생의 형상을 하고 있습니다. 전통적으로 지혜와 부의 상징으로 여겨지며, 주로 신의 사자로 묘사됩니다.",
@@ -262,8 +262,8 @@
         {
             "student_id": "crawled",
             "name": "삼족오",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/삼족오.png",
+            "image_prompt": "An ancient East Asian mythical creature called '삼족오'. Body composed of: 닭, 청룡, 백호. Description: 삼족오는 세 개의 발을 가진 전설적인 새로, 동아시아에서 태양신의 상징으로 여겨집니다. 고구려의 문화와 신화 속에서 중요한 역할을 하며, 일부 문헌에서는 지혜와 무소불위의 힘을 지닌 존재로 묘사되기도 합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "닭",
                 "청룡",
@@ -279,8 +279,8 @@
         {
             "student_id": "crawled",
             "name": "교인",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/교인.png",
+            "image_prompt": "An ancient East Asian mythical creature called '교인'. Body composed of: . Description: 교인은 종교를 가지고 있는 사람을 의미하며, 주로 개신교에서 많이 사용되는 표현이다. 가톨릭에서는 교우 또는 형제님, 자매님으로 불리며, 불교에서는 법우라는 용어를 사용한다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "敎人",
             "translated": "교인은 종교를 가지고 있는 사람을 의미하며, 주로 개신교에서 많이 사용되는 표현이다. 가톨릭에서는 교우 또는 형제님, 자매님으로 불리며, 불교에서는 법우라는 용어를 사용한다.",
@@ -292,8 +292,8 @@
         {
             "student_id": "crawled",
             "name": "맥",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/맥.png",
+            "image_prompt": "An ancient East Asian mythical creature called '맥'. Body composed of: 고래. Description: 맥은 동물로, 주로 높은 산이나 숲에서 서식하는 것으로 알려져 있습니다. 이들은 대체로 여우와 비슷한 외모를 가지고 있으며, 먹이는 주로 식물입니다. 아시아 지역에서 자주 언급되지만, 다양한 신화와 이야기 속에서도 중요한 역할을 합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "고래"
             ],
@@ -307,8 +307,8 @@
         {
             "student_id": "crawled",
             "name": "달토끼",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/달토끼.png",
+            "image_prompt": "An ancient East Asian mythical creature called '달토끼'. Body composed of: 토끼. Description: 달토끼는 전설 속에서 달에 살고 있다는 토끼로, '옥토끼'라고도 불립니다. 원래는 흰토끼를 뜻했으나, 시간이 지나면서 보편적으로 달토끼라는 표현이 사용되고 있습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "토끼"
             ],
@@ -322,8 +322,8 @@
         {
             "student_id": "crawled",
             "name": "용",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/용.png",
+            "image_prompt": "An ancient East Asian mythical creature called '용'. Body composed of: 뱀, 새, 사슴. Description: 용은 동아시아의 전설적인 상상의 동물로, 주로 물과 하늘을 다스리는 존재로 여겨진다. 용은 뱀의 몸체와 새의 날개를 가지고 있으며, 풍요와 강력함의 상징으로 취급된다. 한국, 중국, 일본 등 여러 문화에서 신화와 전설 속 등장하는 중요한 캐릭터다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "뱀",
                 "새",
@@ -339,8 +339,8 @@
         {
             "student_id": "crawled",
             "name": "이무기",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/이무기.png",
+            "image_prompt": "An ancient East Asian mythical creature called '이무기'. Body composed of: 뱀. Description: 이무기는 한국의 전설 속에 등장하는 상상의 생물로, 뱀의 모습을 하고 있습니다. 이무기는 천제에게 인정받기 위해 구슬을 찾아 하늘로 올라가려는 존재로 비유되며, 용으로 변하기 위해 여러 번의 시련을 거쳐야 한다고 합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "뱀"
             ],
@@ -354,8 +354,8 @@
         {
             "student_id": "crawled",
             "name": "도깨비",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/도깨비.png",
+            "image_prompt": "An ancient East Asian mythical creature called '도깨비'. Body composed of: . Description: 도깨비는 한국의 전통 설화에 등장하는 환상적인 존재로, 주로 풍요와 행운을 가져오는 신으로 묘사된다. 그들은 보통 사람의 모습으로 나타나며, 주로 행복한 일이나 가족의 안전을 기원하는 역할을 한다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "도깨비는 한국의 전통 설화에 등장하는 환상적인 존재로, 주로 풍요와 행운을 가져오는 신으로 묘사된다. 그들은 보통 사람의 모습으로 나타나며, 주로 행복한 일이나 가족의 안전을 기원하는 역할을 한다.",
@@ -367,8 +367,8 @@
         {
             "student_id": "crawled",
             "name": "불가사리",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/불가사리.png",
+            "image_prompt": "An ancient East Asian mythical creature called '불가사리'. Body composed of: 극피동물, 해삼, 성게. Description: 불가사리는 극피동물문에 속하는 바다 생물로, 몸을 잘라내어도 다시 재생되는 특징 때문에 '죽일 수 없다'는 뜻의 이름이 붙여졌다. 대략 5억 년 전 캄브리아기 대폭발 당시 처음 등장한 것으로 추정되며, 다양한 종류가 존재하여 해양 생태계에서 중요한 역할을 한다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "극피동물",
                 "해삼",
@@ -384,8 +384,8 @@
         {
             "student_id": "crawled",
             "name": "불개",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/불개.png",
+            "image_prompt": "An ancient East Asian mythical creature called '불개'. Body composed of: 늑대, 개. Description: 불개는 대한민국의 비공식 견종으로, 경상북도 영주시 인근이 원산지로 알려져 있다. 늑대와 유사한 뾰족한 귀와 긴 허리를 갖고 있으며, 황색과 갈색을 주색으로 하는 털을 가진다. 현재 적황개불개와 적갈색불개로 구분되며, 두 품종 모두 보존을 위한 노력이 필요하다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "늑대",
                 "개"
@@ -400,8 +400,8 @@
         {
             "student_id": "crawled",
             "name": "삼족섬",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/삼족섬.png",
+            "image_prompt": "An ancient East Asian mythical creature called '삼족섬'. Body composed of: 새, 뱀, 여우. Description: 삼족섬은 동아시아의 전설 속 생물로, 세 개의 다리를 가진 개구리의 형태로 묘사된다. 이 생물은 주로 불사와 장수를 상징하며, 그 모습을 하고 있는 것만으로도 강력한 힘을 가졌다고 여겨진다. 삼족섬은 종종 금전과 재물의 상징으로도 간주되어, 행운을 가져다준다고 믿어졌다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "새",
                 "뱀",
@@ -417,8 +417,8 @@
         {
             "student_id": "crawled",
             "name": "영노",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/영노.png",
+            "image_prompt": "An ancient East Asian mythical creature called '영노'. Body composed of: 물고기, 새, 뱀. Description: 영노는 한국의 전통 설화 속에 등장하는 상상의 생물로, 물고기와 새, 뱀의 특징을 동시에 지닌 존재입니다. 이 생물은 종종 신화나 요괴 이야기에서 어둠과 관련된 역할을 수행하며, 사람들에게 신비로운 느낌을 줍니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "물고기",
                 "새",
@@ -434,8 +434,8 @@
         {
             "student_id": "crawled",
             "name": "치우",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/치우.png",
+            "image_prompt": "An ancient East Asian mythical creature called '치우'. Body composed of: 뱀, 새, 물고기. Description: 치우는 중국 신화에 등장하는 전쟁과 비를 관장하는 신으로, 그의 신체는 주로 뱀, 새, 물고기로 구성되어 있다고 전해진다. 외적에 맞서 싸우고 재난을 막는 역할을 하며, 몽몐계 민족 문화에서도 중요한 위치를 차지하고 있다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "뱀",
                 "새",
@@ -451,8 +451,8 @@
         {
             "student_id": "crawled",
             "name": "백택",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/백택.png",
+            "image_prompt": "An ancient East Asian mythical creature called '백택'. Body composed of: . Description: 백택은 동아시아의 환상 요괴 중 하나로, 형체는 대개 커다란 물체처럼 묘사됩니다. 이 요괴는 불행을 가져오는 존재로 여겨지며, 다양한 전설에 등장합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "백택은 동아시아의 환상 요괴 중 하나로, 형체는 대개 커다란 물체처럼 묘사됩니다. 이 요괴는 불행을 가져오는 존재로 여겨지며, 다양한 전설에 등장합니다.",
@@ -464,8 +464,8 @@
         {
             "student_id": "crawled",
             "name": "도철",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/도철.png",
+            "image_prompt": "An ancient East Asian mythical creature called '도철'. Body composed of: . Description: 도철은 중국 신화에 등장하는 상상의 동물로, 일반적으로 큰 입과 강한 식성을 가진 형태로 묘사됩니다. 이 동물의 특징은 많은 음식을 먹는 것으로, 주로 탐욕의 상징으로 여겨집니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "饕餮",
             "translated": "도철은 중국 신화에 등장하는 상상의 동물로, 일반적으로 큰 입과 강한 식성을 가진 형태로 묘사됩니다. 이 동물의 특징은 많은 음식을 먹는 것으로, 주로 탐욕의 상징으로 여겨집니다.",
@@ -477,8 +477,8 @@
         {
             "student_id": "crawled",
             "name": "혼돈",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/혼돈.png",
+            "image_prompt": "An ancient East Asian mythical creature called '혼돈'. Body composed of: . Description: 혼돈은 질서 없이 마구 뒤섞여 갈피를 잡을 수 없는 상태를 뜻하며, 창세에 대해 말하는 신화나 철학에서는 하늘과 땅이 나누어지기 전의 상태를 의미합니다. 과학에서는 초기 조건에 매우 민감하여 미래의 상태를 예측하기 어려운 양상을 나타냅니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "混沌",
             "translated": "혼돈은 질서 없이 마구 뒤섞여 갈피를 잡을 수 없는 상태를 뜻하며, 창세에 대해 말하는 신화나 철학에서는 하늘과 땅이 나누어지기 전의 상태를 의미합니다. 과학에서는 초기 조건에 매우 민감하여 미래의 상태를 예측하기 어려운 양상을 나타냅니다.",
@@ -490,8 +490,8 @@
         {
             "student_id": "crawled",
             "name": "붕",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/붕.png",
+            "image_prompt": "An ancient East Asian mythical creature called '붕'. Body composed of: 새. Description: 붕은 전설상의 새로, 상상의 동물 중 하나이다. 이 새는 거대한 크기로 하늘을 나는 능력이 있으며, 전설에 따르면 매우 빠르게 이동할 수 있다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "새"
             ],
@@ -505,8 +505,8 @@
         {
             "student_id": "crawled",
             "name": "응룡",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/응룡.png",
+            "image_prompt": "An ancient East Asian mythical creature called '응룡'. Body composed of: 물고기, 용. Description: 응룡은 물속에 사는 전설 속 생물로, 용의 특성을 지닌 물고기로 상상됩니다. 동아시아 신화에 등장하며, 물과 관련된 다양한 이야기에서 중요한 역할을 합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "물고기",
                 "용"
@@ -521,8 +521,8 @@
         {
             "student_id": "crawled",
             "name": "기",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/기.png",
+            "image_prompt": "An ancient East Asian mythical creature called '기'. Body composed of: . Description: ‘기’는 한국어에서 두 번째로 많이 쓰이는 글자이며, 다양한 의미를 가지고 있다. 고문헌에서는 기계, 기운, 상상의 동물 등 여러 가지로 해석될 수 있다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "‘기’는 한국어에서 두 번째로 많이 쓰이는 글자이며, 다양한 의미를 가지고 있다. 고문헌에서는 기계, 기운, 상상의 동물 등 여러 가지로 해석될 수 있다.",
@@ -534,8 +534,8 @@
         {
             "student_id": "crawled",
             "name": "짐새",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/짐새.png",
+            "image_prompt": "An ancient East Asian mythical creature called '짐새'. Body composed of: . Description: 짐새는 동아시아의 전설적인 요괴로, 일반적으로 특이한 외모를 가진 상상의 생물입니다. 지역에 따라 다양한 모습과 성질을 지니며, 한국을 비롯한 여러 전통 이야기 속에서 등장합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "짐새는 동아시아의 전설적인 요괴로, 일반적으로 특이한 외모를 가진 상상의 생물입니다. 지역에 따라 다양한 모습과 성질을 지니며, 한국을 비롯한 여러 전통 이야기 속에서 등장합니다.",
@@ -547,8 +547,8 @@
         {
             "student_id": "crawled",
             "name": "알유",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/알유.png",
+            "image_prompt": "An ancient East Asian mythical creature called '알유'. Body composed of: . Description: 알유는 중국 신화에 등장하는 허구의 생물로, 전통적으로 다양한 형태와 능력을 가진 요괴로 묘사됩니다. 이 생물은 일반적으로 인간의 체형과 동물의 특징을 혼합한 모습으로 상상되며, 놀라운 힘과 마법적인 능력을 지니고 있는 것으로 알려져 있습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "알유는 중국 신화에 등장하는 허구의 생물로, 전통적으로 다양한 형태와 능력을 가진 요괴로 묘사됩니다. 이 생물은 일반적으로 인간의 체형과 동물의 특징을 혼합한 모습으로 상상되며, 놀라운 힘과 마법적인 능력을 지니고 있는 것으로 알려져 있습니다.",
@@ -560,8 +560,8 @@
         {
             "student_id": "crawled",
             "name": "상류",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/상류.png",
+            "image_prompt": "An ancient East Asian mythical creature called '상류'. Body composed of: . Description: 상류는 하천에서 발원지와 가까운 곳의 물줄기를 의미하며, 하천 위쪽의 물줄기를 나타냅니다. 불규칙하고 적은 강수량이 특징인 사막 기후 지역에서는 상류로 이동해야 안정적인 수원을 찾을 수 있습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "상류는 하천에서 발원지와 가까운 곳의 물줄기를 의미하며, 하천 위쪽의 물줄기를 나타냅니다. 불규칙하고 적은 강수량이 특징인 사막 기후 지역에서는 상류로 이동해야 안정적인 수원을 찾을 수 있습니다.",
@@ -573,8 +573,8 @@
         {
             "student_id": "crawled",
             "name": "시랑",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/시랑.png",
+            "image_prompt": "An ancient East Asian mythical creature called '시랑'. Body composed of: 늑대. Description: 시랑은 산해경에 등장하는 상상의 동물로, 혼혈형태의 존재입니다. 늑대와 인간 사이에서 태어난 시랑은 검은 늑대로 변신할 수 있으며, 아버지 늑대왕의 죽음에 죄책감을 느끼고 있습니다. 복수의 갈등을 겪지만, 이복형과의 화해로 그 갈등이 해소됩니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "늑대"
             ],
@@ -588,8 +588,8 @@
         {
             "student_id": "crawled",
             "name": "팽후",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/팽후.png",
+            "image_prompt": "An ancient East Asian mythical creature called '팽후'. Body composed of: . Description: 팽후는 중국 전설에 등장하는 상상의 생물로, 두 마리 귀와 한 쌍의 날개를 가진 것으로 묘사된다. 주로 악령을 쫓아내고 방어하는 역할을 맡고 있으며, 이로 인해 많은 지역에서 특별한 존재로 여겨진다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "팽후는 중국 전설에 등장하는 상상의 생물로, 두 마리 귀와 한 쌍의 날개를 가진 것으로 묘사된다. 주로 악령을 쫓아내고 방어하는 역할을 맡고 있으며, 이로 인해 많은 지역에서 특별한 존재로 여겨진다.",
@@ -601,8 +601,8 @@
         {
             "student_id": "crawled",
             "name": "천호",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/천호.png",
+            "image_prompt": "An ancient East Asian mythical creature called '천호'. Body composed of: . Description: 천호는 동아시아의 상상의 동물로, 그 형태와 특성은 여러 문헌에서 다양하게 전해진다. 구체적인 모습이나 능력에 대한 설명은 나타나지 않으나, 상상 속의 존재로서 특정 이미지나 상징성을 지니고 있다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "천호는 동아시아의 상상의 동물로, 그 형태와 특성은 여러 문헌에서 다양하게 전해진다. 구체적인 모습이나 능력에 대한 설명은 나타나지 않으나, 상상 속의 존재로서 특정 이미지나 상징성을 지니고 있다.",
@@ -614,8 +614,8 @@
         {
             "student_id": "crawled",
             "name": "착치",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/착치.png",
+            "image_prompt": "An ancient East Asian mythical creature called '착치'. Body composed of: . Description: 착치는 동아시아 전설 속의 요괴로, 일반적으로는 어둠 속에서 살아가며 사람들을 혼란에 빠뜨리는 존재로 묘사됩니다. 이 생물에 대한 구체적인 특징이나 형태는 다양하게 전해지나, 대체적으로 신비로운 요소가 강한 존재로 여겨집니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "착치는 동아시아 전설 속의 요괴로, 일반적으로는 어둠 속에서 살아가며 사람들을 혼란에 빠뜨리는 존재로 묘사됩니다. 이 생물에 대한 구체적인 특징이나 형태는 다양하게 전해지나, 대체적으로 신비로운 요소가 강한 존재로 여겨집니다.",
@@ -627,8 +627,8 @@
         {
             "student_id": "crawled",
             "name": "화사",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/화사.png",
+            "image_prompt": "An ancient East Asian mythical creature called '화사'. Body composed of: 꽃뱀, 유혈목이. Description: 화사는 꽃뱀 또는 유혈목이를 뜻하는 이름으로, 그 이름은 아름다움을 강조하는 의미를 가집니다. 화사는 서정주 시인의 시에도 등장하여, 상징적이고 시적인 이미지를 통해 독자에게 깊은 인상을 남깁니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "꽃뱀",
                 "유혈목이"
@@ -643,8 +643,8 @@
         {
             "student_id": "crawled",
             "name": "도견",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/도견.png",
+            "image_prompt": "An ancient East Asian mythical creature called '도견'. Body composed of: . Description: 도견은 남의 것을 몰래 엿보는 상상의 동물입니다. 이 동물에 대한 구체적인 정보는 부족하지만, 일반적으로 상상의 동물로 분류됩니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "도견은 남의 것을 몰래 엿보는 상상의 동물입니다. 이 동물에 대한 구체적인 정보는 부족하지만, 일반적으로 상상의 동물로 분류됩니다.",
@@ -656,8 +656,8 @@
         {
             "student_id": "crawled",
             "name": "무지기",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/무지기.png",
+            "image_prompt": "An ancient East Asian mythical creature called '무지기'. Body composed of: . Description: 무지기는 상상의 동물로, 고문헌에 구체적인 설명이 남아있지 않다. 이 동물에 대한 자세한 내용은 무지기 문서를 참고하면 된다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "무지기는 상상의 동물로, 고문헌에 구체적인 설명이 남아있지 않다. 이 동물에 대한 자세한 내용은 무지기 문서를 참고하면 된다.",
@@ -669,8 +669,8 @@
         {
             "student_id": "crawled",
             "name": "치조",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/치조.png",
+            "image_prompt": "An ancient East Asian mythical creature called '치조'. Body composed of: . Description: 치조는 이가 박혀 있는 위턱과 아래턱의 구멍이 뚫린 뼈를 의미합니다. 이는 주로 치아의 지지 구조로 기능하며, 턱의 모양과 기능에 중요한 역할을 합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "齒槽",
             "translated": "치조는 이가 박혀 있는 위턱과 아래턱의 구멍이 뚫린 뼈를 의미합니다. 이는 주로 치아의 지지 구조로 기능하며, 턱의 모양과 기능에 중요한 역할을 합니다.",
@@ -682,8 +682,8 @@
         {
             "student_id": "crawled",
             "name": "청조",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/청조.png",
+            "image_prompt": "An ancient East Asian mythical creature called '청조'. Body composed of: . Description: 청조는 전설 속의 동물로, 주로 상상의 세계에서 나타나는 존재입니다. 이를 통해 고대 중국의 문화와 신화를 이해할 수 있습니다. 청조에 대한 보다 구체적인 정보는 '산해경'에서 찾을 수 있습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "청조는 전설 속의 동물로, 주로 상상의 세계에서 나타나는 존재입니다. 이를 통해 고대 중국의 문화와 신화를 이해할 수 있습니다. 청조에 대한 보다 구체적인 정보는 '산해경'에서 찾을 수 있습니다.",
@@ -695,8 +695,8 @@
         {
             "student_id": "crawled",
             "name": "상양",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/상양.png",
+            "image_prompt": "An ancient East Asian mythical creature called '상양'. Body composed of: . Description: 상양고교는 일본의 만화 '슬램덩크'에 등장하는 가상의 고등학교로, 카나가와 지역의 전통적인 강호로 묘사됩니다. 해남대부속고에 밀려 항상 2인자 자리에 머물지만, 그 가능성을 인정받고 있는 팀입니다. 김수겸이 선수 겸 감독으로서 팀을 이끌고 있으며, 극단적으로 높은 신장의 선수들로 구성되어 있습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "상양고교는 일본의 만화 '슬램덩크'에 등장하는 가상의 고등학교로, 카나가와 지역의 전통적인 강호로 묘사됩니다. 해남대부속고에 밀려 항상 2인자 자리에 머물지만, 그 가능성을 인정받고 있는 팀입니다. 김수겸이 선수 겸 감독으로서 팀을 이끌고 있으며, 극단적으로 높은 신장의 선수들로 구성되어 있습니다.",
@@ -708,8 +708,8 @@
         {
             "student_id": "crawled",
             "name": "백악",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/백악.png",
+            "image_prompt": "An ancient East Asian mythical creature called '백악'. Body composed of: 조개류, 산호. Description: 백악은 탄산칼슘으로 이루어진 암석으로, 주로 영국의 절벽에서 발견된다. 이 암석은 중생대의 백악기 시대에 형성되었으며, 그 이름의 유래와 함께 백악관의 이름에서도 확인할 수 있다. 백악은 또한 분필의 어원이기도 하다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "조개류",
                 "산호"
@@ -724,8 +724,8 @@
         {
             "student_id": "crawled",
             "name": "규룡",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/규룡.png",
+            "image_prompt": "An ancient East Asian mythical creature called '규룡'. Body composed of: 용, 기계 생물. Description: 규룡은 애니메이션 '달링 인 더 프랑키스'에 등장하는 신비로운 생물체로, 인류를 공격하는 적의 역할을 맡고 있다. 검은색의 몸체와 파란 빛의 선들로 이루어진 외형을 가진 규룡은 강력한 물리적 공격과 에너지 공격을 하며, 마그마 에너지를 끌어당기는 특징을 지닌다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "용",
                 "기계 생물"
@@ -740,8 +740,8 @@
         {
             "student_id": "crawled",
             "name": "창귀",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/창귀.png",
+            "image_prompt": "An ancient East Asian mythical creature called '창귀'. Body composed of: . Description: 창귀는 한국의 전통 요괴 중 하나로, 주로 사람들이 두려워하는 존재이다. 이 요괴는 다양한 계층과 이야기에서 등장하며, 종종 사람들을 감시하거나 혼란에 빠뜨리는 역할을 한다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "창귀는 한국의 전통 요괴 중 하나로, 주로 사람들이 두려워하는 존재이다. 이 요괴는 다양한 계층과 이야기에서 등장하며, 종종 사람들을 감시하거나 혼란에 빠뜨리는 역할을 한다.",
@@ -753,8 +753,8 @@
         {
             "student_id": "crawled",
             "name": "비두만",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/비두만.png",
+            "image_prompt": "An ancient East Asian mythical creature called '비두만'. Body composed of: . Description: 비두만은 동아시아의 전설적인 요괴로, 주로 물에 서식하며 귀신과 비슷한 외모를 가지고 있는 상상의 생물이다. 이 요괴는 특정 지역에서 귀신의 상징으로 여겨지고 있으며, 사람들에게 영향을 미치는 다양한 이야기가 전해진다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "비두만은 동아시아의 전설적인 요괴로, 주로 물에 서식하며 귀신과 비슷한 외모를 가지고 있는 상상의 생물이다. 이 요괴는 특정 지역에서 귀신의 상징으로 여겨지고 있으며, 사람들에게 영향을 미치는 다양한 이야기가 전해진다.",
@@ -766,8 +766,8 @@
         {
             "student_id": "crawled",
             "name": "식양",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/식양.png",
+            "image_prompt": "An ancient East Asian mythical creature called '식양'. Body composed of: . Description: 식양은 중국의 전통 절차에서 제사를 올리기 위한 상상의 생물 또는 신령을 의미합니다. 이 생물은 요괴의 일종으로, 종종 사람이나 동물의 형상을 가지고 있으며 다양한 전설과 신화에서 등장합니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "식양은 중국의 전통 절차에서 제사를 올리기 위한 상상의 생물 또는 신령을 의미합니다. 이 생물은 요괴의 일종으로, 종종 사람이나 동물의 형상을 가지고 있으며 다양한 전설과 신화에서 등장합니다.",
@@ -779,8 +779,8 @@
         {
             "student_id": "crawled",
             "name": "비",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/비.png",
+            "image_prompt": "An ancient East Asian mythical creature called '비'. Body composed of: . Description: 비는 하늘에서 내리는 물 입자로, 주로 난층운이나 고층운에서 발생한다. 작은 빗방울들이 지속적으로 내리며, 강수량에 따라 보통 비, 강한 비, 매우 강한 비로 구분된다. 비는 날씨에 큰 영향을 미치며, 사람마다 호불호가 갈린다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "비는 하늘에서 내리는 물 입자로, 주로 난층운이나 고층운에서 발생한다. 작은 빗방울들이 지속적으로 내리며, 강수량에 따라 보통 비, 강한 비, 매우 강한 비로 구분된다. 비는 날씨에 큰 영향을 미치며, 사람마다 호불호가 갈린다.",
@@ -792,8 +792,8 @@
         {
             "student_id": "crawled",
             "name": "박",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/박.png",
+            "image_prompt": "An ancient East Asian mythical creature called '박'. Body composed of: . Description: 박은 주로 '상상의 동물'로 언급되며, 동아시아의 신화나 민간전승에서 등장하는 생물로 알려져 있다. 이들 상상의 동물들은 기묘한 형상과 특성을 지니고 있어 민속이나 이야기에서 독특한 역할을 한다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "박은 주로 '상상의 동물'로 언급되며, 동아시아의 신화나 민간전승에서 등장하는 생물로 알려져 있다. 이들 상상의 동물들은 기묘한 형상과 특성을 지니고 있어 민속이나 이야기에서 독특한 역할을 한다.",
@@ -805,8 +805,8 @@
         {
             "student_id": "crawled",
             "name": "천구",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/천구.png",
+            "image_prompt": "An ancient East Asian mythical creature called '천구'. Body composed of: . Description: 천구란 관측자가 보는 천체를 투영한 하늘의 무한원점을 의미합니다. 지구를 중심으로 하는 무한 반경의 큰 구면으로, 모든 천체가 이 구면 위에 투영되어 있는 것으로 간주됩니다. 별자리는 이 천구상에 위치하지만, 거리가 가까운 것과 실제로 가까운 것은 크게 관계가 없습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "天球",
             "translated": "천구란 관측자가 보는 천체를 투영한 하늘의 무한원점을 의미합니다. 지구를 중심으로 하는 무한 반경의 큰 구면으로, 모든 천체가 이 구면 위에 투영되어 있는 것으로 간주됩니다. 별자리는 이 천구상에 위치하지만, 거리가 가까운 것과 실제로 가까운 것은 크게 관계가 없습니다.",
@@ -818,8 +818,8 @@
         {
             "student_id": "crawled",
             "name": "폐폐",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/폐폐.png",
+            "image_prompt": "An ancient East Asian mythical creature called '폐폐'. Body composed of: 여우. Description: 폐폐는 동아시아의 전설적인 상상의 생물로, 대표적으로 여우의 특징을 가진 존재로서 상상된다. 이 생물은 전설 속에서 신비로운 능력을 지니고 있으며, 사람들과의 관계에서 다양한 이야기가 전해진다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [
                 "여우"
             ],
@@ -833,8 +833,8 @@
         {
             "student_id": "crawled",
             "name": "나찰",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/나찰.png",
+            "image_prompt": "An ancient East Asian mythical creature called '나찰'. Body composed of: . Description: 나찰은 동아시아 전통 신화에서 등장하는 요괴로, 다양한 형태로 묘사된다. 불교와 중국의 민간 신화에서 유래된 상상의 생물이며, 인도의 악귀인 락샤사와도 관련이 있다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "나찰은 동아시아 전통 신화에서 등장하는 요괴로, 다양한 형태로 묘사된다. 불교와 중국의 민간 신화에서 유래된 상상의 생물이며, 인도의 악귀인 락샤사와도 관련이 있다.",
@@ -846,8 +846,8 @@
         {
             "student_id": "crawled",
             "name": "강시",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/강시.png",
+            "image_prompt": "An ancient East Asian mythical creature called '강시'. Body composed of: . Description: 강시는 중국의 전통 요괴로, 죽은 사람의 사체가 부활하여 살아있는 사람을 공격하는 존재로 묘사된다. 이들은 일반적으로 몸이 경직되어 있으며, 다양한 무기를 사용해 공격한다. 강시는 동아시아의 여러 문화에서 언데드의 대명사로 여겨진다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "강시는 중국의 전통 요괴로, 죽은 사람의 사체가 부활하여 살아있는 사람을 공격하는 존재로 묘사된다. 이들은 일반적으로 몸이 경직되어 있으며, 다양한 무기를 사용해 공격한다. 강시는 동아시아의 여러 문화에서 언데드의 대명사로 여겨진다.",
@@ -859,8 +859,8 @@
         {
             "student_id": "crawled",
             "name": "후",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/후.png",
+            "image_prompt": "An ancient East Asian mythical creature called '후'. Body composed of: . Description: 후는 한국의 성씨 중 하나로, 일본에서는 '후'라는 문자가 음식 재료로 사용됩니다. 식물성 단백질 식재료로서 밀의 글루텐으로 만들어져 저칼로리 고단백의 특징이 있습니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "후는 한국의 성씨 중 하나로, 일본에서는 '후'라는 문자가 음식 재료로 사용됩니다. 식물성 단백질 식재료로서 밀의 글루텐으로 만들어져 저칼로리 고단백의 특징이 있습니다.",
@@ -872,8 +872,8 @@
         {
             "student_id": "crawled",
             "name": "년",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/년.png",
+            "image_prompt": "An ancient East Asian mythical creature called '년'. Body composed of: . Description: 연도는 지구의 공전 주기를 기준으로 하는 시간 체계로, 계절 현상이 한 해를 주기로 반복됩니다. 한국어로는 '해'라고 하며, 한자로는 '年'이라고 표현됩니다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "연도는 지구의 공전 주기를 기준으로 하는 시간 체계로, 계절 현상이 한 해를 주기로 반복됩니다. 한국어로는 '해'라고 하며, 한자로는 '年'이라고 표현됩니다.",
@@ -885,8 +885,8 @@
         {
             "student_id": "crawled",
             "name": "분운",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/분운.png",
+            "image_prompt": "An ancient East Asian mythical creature called '분운'. Body composed of: . Description: 분운은 동아시아의 상상의 생물로, 주로 중화권의 요괴와 관련이 있다. 이 생물에 대한 구체적인 형태나 특징은 전해지지 않지만, 전통적인 요괴와 같은 신비로운 존재로 인식된다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "분운은 동아시아의 상상의 생물로, 주로 중화권의 요괴와 관련이 있다. 이 생물에 대한 구체적인 형태나 특징은 전해지지 않지만, 전통적인 요괴와 같은 신비로운 존재로 인식된다.",
@@ -898,8 +898,8 @@
         {
             "student_id": "crawled",
             "name": "수호",
-            "image": "",
-            "image_prompt": "",
+            "image": "images/수호.png",
+            "image_prompt": "An ancient East Asian mythical creature called '수호'. Body composed of: . Description: 수호는 지키고 보호하는 의미를 가진 한자로, 주로 군대에서 사용되지만 중국에서는 일반적으로 쓰인다. 일본에서는 가마쿠라와 무로마치 막부 때 중앙 정부에서 파견된 지방관을 가리키는 말이었다. Style: traditional East Asian ink painting, detailed illustration, mystical atmosphere, on a light parchment background. No text, no labels.",
             "animals": [],
             "original": "",
             "translated": "수호는 지키고 보호하는 의미를 가진 한자로, 주로 군대에서 사용되지만 중국에서는 일반적으로 쓰인다. 일본에서는 가마쿠라와 무로마치 막부 때 중앙 정부에서 파견된 지방관을 가리키는 말이었다.",
