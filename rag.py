@@ -1,32 +1,39 @@
 """
 RAG 파이프라인
-- 각 동물 데이터를 텍스트로 변환 → 임베딩 벡터 생성
+- 각 동물 데이터를 텍스트로 변환 → OpenAI 임베딩 벡터 생성
 - 쿼리 임베딩과 코사인 유사도로 관련 동물 검색
 - LLM에 컨텍스트로 전달
 """
 
 import json
+import os
 import numpy as np
 from pathlib import Path
-from sentence_transformers import SentenceTransformer
+from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 DB_PATH = Path(__file__).parent / "db.json"
 INDEX_PATH = Path(__file__).parent / "index.npy"
 META_PATH = Path(__file__).parent / "index_meta.json"
 
-# 다국어(한국어/한자) 지원 임베딩 모델
-MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
+EMBED_MODEL = "text-embedding-3-small"  # 1536차원, 가볍고 빠름
 
-_model = None
 _embeddings = None
 _meta = None
 
 
-def _get_model() -> SentenceTransformer:
-    global _model
-    if _model is None:
-        _model = SentenceTransformer(MODEL_NAME)
-    return _model
+def get_embedding(text: str) -> np.ndarray:
+    """OpenAI API로 텍스트 임베딩 생성"""
+    response = client.embeddings.create(
+        model=EMBED_MODEL,
+        input=text,
+    )
+    vec = np.array(response.data[0].embedding, dtype=np.float32)
+    # 코사인 유사도를 위해 정규화
+    return vec / np.linalg.norm(vec)
 
 
 def beast_to_text(beast: dict) -> str:
@@ -49,8 +56,8 @@ def build_index():
     beasts = db["beasts"]
     texts = [beast_to_text(b) for b in beasts]
 
-    model = _get_model()
-    embeddings = model.encode(texts, normalize_embeddings=True)
+    print(f"임베딩 생성 중... ({len(texts)}개)")
+    embeddings = np.array([get_embedding(t) for t in texts], dtype=np.float32)
 
     np.save(INDEX_PATH, embeddings)
     with open(META_PATH, "w", encoding="utf-8") as f:
@@ -79,9 +86,8 @@ def load_index():
 def retrieve(query: str, top_k: int = 2) -> list[dict]:
     """쿼리와 코사인 유사도가 높은 동물 top_k개 반환"""
     beasts, embeddings = load_index()
-    model = _get_model()
 
-    query_vec = model.encode([query], normalize_embeddings=True)[0]
+    query_vec = get_embedding(query)
     # 코사인 유사도 = 정규화된 벡터의 내적
     scores = embeddings @ query_vec
     top_indices = np.argsort(scores)[::-1][:top_k]

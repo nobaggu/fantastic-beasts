@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import "./App.css"
 
-const API = "http://localhost:8000"
+const API = "https://fantastic-beasts.onrender.com"
 
 function BeastCard({ beast, onClick }) {
   return (
