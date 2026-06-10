@@ -12,6 +12,8 @@
 import json
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from contextlib import asynccontextmanager
 
@@ -34,6 +36,19 @@ app = FastAPI(
     version="1.0.0",
     lifespan=lifespan,
 )
+
+# React(localhost:5173)에서 API 호출 허용
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# images/ 폴더를 /images URL로 서빙
+images_dir = Path(__file__).parent / "images"
+if images_dir.exists():
+    app.mount("/images", StaticFiles(directory=str(images_dir)), name="images")
 
 
 class AskRequest(BaseModel):
