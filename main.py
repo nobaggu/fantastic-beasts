@@ -40,7 +40,7 @@ app = FastAPI(
 # React(localhost:5173)에서 API 호출 허용
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
